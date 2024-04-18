@@ -35,3 +35,26 @@ body {
 h2, h3, h4, p, li, table, form {
     color: white;
 }
+
+.img1:hover{
+    transform: scale(1.2);
+}
+
+.img2:hover{
+    transform: scale(1.2);
+}
+
+.img3:hover{
+    transform: scale(1.2);
+}
+
+.img4:hover{
+    transform: scale(1.2);
+}
+
+img{
+    margin: 5px;
+    display: inline-block;
+    border: 3px solid black;
+    border-radius: 5px;
+}
