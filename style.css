@@ -1,0 +1,43 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+
+  .content {
+    text-align: center;
+  }
+
+  body {
+    border: 3px solid black; 
+    padding: 20px;
+    text-align: center;
+}
+
+  body {
+    background-color: rgb(80, 24, 0);
+}
+
+.Eu {
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+.coco {
+    border: 4px solid black;
+    padding: 10px;
+    background-color: lightgray;
+    width: 600px; 
+}
+
+.h3 {
+    font-family:'Courier New', Courier, monospace;
+    }
+
+h2, h3, h4, p, li, table, form {
+    color: white;
+}
